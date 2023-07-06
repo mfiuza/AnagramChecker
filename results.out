@@ -1,0 +1,5 @@
+[test, stet] - Anagram!
+[marcelo, arlecom] - Anagram!
+[marcelo, arlecomm] - Not Anagram
+[test, stete] - Not Anagram
+[silent, listen] - Anagram!
